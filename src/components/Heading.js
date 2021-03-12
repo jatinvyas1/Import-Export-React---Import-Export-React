@@ -1,6 +1,5 @@
 import React from 'react'
-
-default export function Heading() {
+export default function Heading() {
     return (
         <h1>Welcome to our Site.</h1>
     )
