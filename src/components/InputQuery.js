@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function InputQuery() {
-    return (
-        <input placeHolder={'Enter your query here..'} />
-    )
+  return <input placeHolder={"Enter your query here.."} />;
 }

@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function SubHeading() {
-    return (
-        <h5>Happy to solve you doubts.</h5>
-    )
+  return <h5>Happy to solve you doubts.</h5>;
 }
